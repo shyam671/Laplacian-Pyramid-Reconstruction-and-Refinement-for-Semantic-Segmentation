@@ -1,0 +1,10 @@
+{
+  "pascal":
+  {
+    "data_path": "/scratch/shyam.nandan/VOCdevkit/VOC2012/"
+  },
+  "sbd":
+  {
+    "data_path": "/scratch/shyam.nandan/benchmark_RELEASE/"
+  }
+}
