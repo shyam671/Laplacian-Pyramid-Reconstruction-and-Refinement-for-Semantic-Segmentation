@@ -1,5 +1,5 @@
 ### Laplacian-Pyramid-Reconstruction-and-Refinement-for-Semantic-Segmentation
-
+### Team : ASM
 Repository contains code and models for the method described in:
 
 [Golnaz Ghiasi, Charless C. Fowlkes, "Laplacian Pyramid Reconstruction and
