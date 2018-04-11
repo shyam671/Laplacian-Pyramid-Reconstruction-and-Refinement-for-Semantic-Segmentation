@@ -1,7 +1,7 @@
 
 ### Laplacian-Pyramid-Reconstruction-and-Refinement-for-Semantic-Segmentation
 ````diff
-+ **Team : ASM**
+Team : ASM
 ````
 Repository contains code and models for the method described in:
 
