@@ -24,4 +24,9 @@ Refinement for Semantic Segmentation", ECCV 2016](http://arxiv.org/abs/1605.0226
 * For training the model just run the model LRRVGG16 Notebook.
 * Visualization of results of pretrained/trained model can be done using Visualization Notebook.
 
-#### RESULTS
+#### Results
+
+![Drag Racing](Results/2.gif)![Drag Racing](Results/3.gif)
+![Drag Racing](Results/1.gif)![Drag Racing](Results/4.gif)
+![Drag Racing](Results/5.gif)![Drag Racing](Results/6.gif)
+![Drag Racing](Results/7.gif)![Drag Racing](Results/8.gif)
