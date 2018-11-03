@@ -1,8 +1,4 @@
 
-````diff
--                       Team : ASM [Ashutosh Mishra, Murtuza Bohra, Shyam Nandan Rai]                   
-````
-
 ### Laplacian-Pyramid-Reconstruction-and-Refinement-for-Semantic-Segmentation
 
 Repository contains code and models for the method described in:
@@ -35,3 +31,7 @@ Refinement for Semantic Segmentation", ECCV 2016](http://arxiv.org/abs/1605.0226
 ![Drag Racing](Results/1.gif)![Drag Racing](Results/4.gif)
 ![Drag Racing](Results/5.gif)![Drag Racing](Results/6.gif)
 
+
+````diff
+-                       Contributer: [Ashutosh Mishra, Shyam Nandan Rai]                   
+````
